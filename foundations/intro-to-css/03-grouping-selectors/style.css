@@ -1,5 +1,15 @@
 /* Add CSS Styling */
-.common {
+.black-button {
+  background-color: black;
+  color: white;
+}
+
+.yellow-button {
+  background-color: yellow;
+}
+
+.black-button,
+.yellow-button {
   font-family: Helvetica, "Times New Roman", sans-serif;
   font-size: 28px;
 }
