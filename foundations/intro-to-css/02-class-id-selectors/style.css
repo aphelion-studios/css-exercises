@@ -9,6 +9,11 @@
   font-size: 36px;
 }
 
-.odd.cooler {
+.cooler {
   font-size: 24px;
+}
+
+#another {
+  background-color: #80FF80;
+  font-weight: bold;
 }
