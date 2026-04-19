@@ -1,7 +1,8 @@
 /* Add CSS Styling */
 
 .avatar.proportioned {
-  height: auto;
+  /* this is default, so no need to explicitly set it */
+  /* height: auto; */
   width: 300px;
 }
 
